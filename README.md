@@ -1,6 +1,5 @@
-# Social-Media-Emotion-Classifier
+# Social-Media-Emotion-Classifier [Link:]([https://i2lzqk8wrgbecnzzv99laj.streamlit.app](https://social-media-emotion-classifier-nsd6uz4lppfpfme2tzz995.streamlit.app/))
 
-# 📊 Machine Learning Classification Project
 
 ## 📌 Overview
 This project implements an end-to-end machine learning classification pipeline using Python. It includes data loading, preprocessing, model training, and performance evaluation using multiple classification algorithms from scikit-learn.

@@ -13,15 +13,6 @@ This project implements an end-to-end machine learning classification pipeline u
 - Seaborn  
 - Scikit-learn  
 
-## 📂 Project Structure
-├── final_project.ipynb
-├── train.csv
-├── test.csv
-└── README.md
-
-markdown
-Copy code
-
 ## 📊 Dataset
 - **train.csv** – used for model training  
 - **test.csv** – used for testing and predictions  

@@ -1,4 +1,4 @@
-# Social-Media-Emotion-Classifier [Link:]([https://i2lzqk8wrgbecnzzv99laj.streamlit.app](https://social-media-emotion-classifier-nsd6uz4lppfpfme2tzz995.streamlit.app/))
+# Social-Media-Emotion-Classifier [Link:]([https://social-media-emotion-classifier-nsd6uz4lppfpfme2tzz995.streamlit.app/])
 
 
 ## 📌 Overview
